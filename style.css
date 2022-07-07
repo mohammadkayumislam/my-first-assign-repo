@@ -1,0 +1,281 @@
+.first-page {
+    background-image: url(donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+#first-page-id-1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    padding: 170px 10px 10px;
+    color: aliceblue;
+}
+
+#first-page-id-2 {
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    padding: 10px 10px 10px;
+    color: white;
+
+}
+
+#link-button {
+    text-align: center;
+    padding: 10px 10px 100px;
+}
+
+.first-page-class-1 {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-size: 30px;
+    border: 3px dotted orange;
+    border-radius: 5px;
+    background-color: orange;
+    padding: 5px 10px;
+}
+
+#second-page-id-no-1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    padding: 10px 10px 10px;
+    color: black;
+
+}
+
+#second-page-id-no-2 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+
+    color: black;
+}
+
+
+
+.batton {
+    margin-bottom: 8%;
+    padding-left: 35%;
+}
+
+.button {
+    border: none;
+    color: rgb(160, 132, 132);
+    padding: 30px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 5px;
+    transition-duration: 0.3s;
+
+}
+
+.button1 {
+    background-color: gray;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+    background-color: #2f8832;
+    color: white;
+}
+
+.button2 {
+    background-color: rgb(147, 119, 119);
+    color: black;
+    border: 2px solid #2f1fa8;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+#amount {
+    text-align: center;
+}
+
+hr {
+    width: 40%;
+    text-align: center;
+    margin-left: 30%
+}
+
+
+#trd-page-id-1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    padding-top: 10px;
+    color: black;
+
+
+}
+
+#trd-page-id-2 {
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    margin-bottom: 5%;
+    color: black;
+}
+
+.donate-plan {
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.plan-1 {
+    width: 70%;
+    padding-left: 4%;
+    padding-right: 8%;
+    padding-bottom: 50px;
+    background-color: blanchedalmond;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 13px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+
+#food-pic {
+    padding-top: 60px;
+}
+
+.plan-2 {
+    width: 70%;
+    padding-left: 2%;
+    padding-right: 8%;
+    padding-bottom: 50px;
+    background-color: bisque;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 2px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-seri;
+    font-weight: 600;
+    border-radius: 13px;
+}
+
+#shelter {
+    padding-top: 60px;
+}
+
+.plan-3 {
+    width: 70%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 4%;
+    padding-right: 8%;
+    padding-bottom: 50px;
+    background-color: cornsilk;
+    border-radius: 2px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    border-radius: 13px;
+}
+
+#Frame {
+    padding-top: 60px;
+}
+
+.section {
+    display: flex;
+    margin-top: 5%;
+}
+
+.middle {
+    width: 70%;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+
+.middle img {
+    width: 80%;
+    padding-left: 5%;
+    padding-right: 30%;
+    padding-top: 30px;
+}
+
+#depend-on {
+    font-size: 35px;
+}
+
+#dolar {
+    text-align: justify;
+    font-size: 20px;
+}
+
+.link-button {
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 30px;
+    border: 3px dotted orange;
+    border-radius: 5px;
+    background-color: orange;
+
+
+}
+
+.humble {
+    text-align: center;
+    margin-top: 2%;
+    background-color: black;
+    background-size: cover;
+
+}
+
+#be {
+    color: red;
+    font-style: italic;
+    font-size: 45px;
+    padding-top: 3px;
+}
+
+#gonna {
+    color: white;
+    padding-bottom: 10px;
+
+}
+
+.update {
+    text-align: center;
+    padding-top: 10%;
+}
+
+#my {
+    font-size: 30px;
+}
+
+.last {
+    background-color: antiquewhite;
+    height: 150px;
+    width: 700px;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+.email {
+    display: flex;
+    padding-left: 35%;
+    padding-top: 10%;
+
+}
+
+#ee {
+    size: 10%;
+}
+
+.aa {
+    text-decoration: none;
+    border: 2px solid gray;
+    width: 50%;
+}
